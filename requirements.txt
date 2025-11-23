@@ -1,0 +1,18 @@
+# Core data science
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+wordcloud
+# # Financial data & indicators
+
+
+# # NLP & Sentiment Analysis
+nltk
+spacy
+textblob
+
+# # Jupyter & Development
+
+

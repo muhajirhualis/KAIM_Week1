@@ -1,11 +1,11 @@
 # 📊 Task 1: Exploratory Data Analysis (EDA)  
 **Predicting Price Moves with News Sentiment**  
 *10 Academy — Artificial Intelligence Mastery | Week 1*  
-*Submitted: 23 Nov 2025 | Author: [Your Name]*
+*Submitted: 23 Nov 2025 | By: Muhajer Hualis*
 
 ---
 
-## 🔍 Overview
+## Overview
 
 This report summarizes the **Exploratory Data Analysis (EDA)** of the *Financial News and Stock Price Integration Dataset (FNSPID)*, comprising **1.4M+ financial headlines** (2020–2021) across 120+ tickers.
 
@@ -14,11 +14,11 @@ Goal: Understand data structure, temporal patterns, linguistic content, and publ
 All analysis is modular, reproducible, and built on:
 - Python 3.10+, pandas, scikit-learn, matplotlib  
 - Git-managed code in `scripts/` with notebook-driven exploration  
-- [GitHub Repository](https://github.com/yourusername/aim-week1)
+- [GitHub Repository](https://github.com/muhajirhualis/KAIM_Week1)
 
 ---
 
-## 📈 1. Descriptive Statistics
+##  1. Descriptive Statistics
 
 ### Headline Characteristics
 | Statistic | Value |
@@ -28,8 +28,8 @@ All analysis is modular, reproducible, and built on:
 | Min / Max | 12 / 256 |
 | Std Dev | 28.1 |
 
-✅ **Insight**: Headlines are concise and standardized — ideal for NLP processing.  
-⚠️ *Outliers*: 3 headlines < 20 chars (e.g., `"BREAKING"`), likely placeholders.
+**Insight**: Headlines are concise and standardized — ideal for NLP processing.  
+*Outliers*: 3 headlines < 20 chars (e.g., `"BREAKING"`), likely placeholders.
 
 ### Publisher Activity
 Top 5 publishers (by article count):

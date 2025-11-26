@@ -6,8 +6,11 @@ seaborn
 scikit-learn
 wordcloud
 # # Financial data & indicators
-
-
+yfinance
+PyNance
+pynance
+mplfinance
+ta-lib
 # # NLP & Sentiment Analysis
 nltk
 spacy

@@ -110,7 +110,7 @@ This project tests two hypotheses:
 
  *Insight*: News impacts markets **immediately** — same-day signal is weak but significant.
 
-![Correlation](reports/figures/sentiment_correlation.png)  
+![Correlation](./notebooks/reports/figures/sentiment_correlation.png)  
 *Fig: Positive slope visible — bullish news → positive returns.*
 
 ---
